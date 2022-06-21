@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+
+.inputs-group {
+    margin-bottom: 15px;
+}
+.inputs-amount {
+    width: 140px;
+    outline: none;
+    height: 35px;
+    border: none;
+    padding-left: 10px;
+    background-color: #335;
+    color: #fff;
+    border-radius: 10px 0px 0px 10px;
+
+}
+.inputs-select-currency {
+    outline: none;
+    height: 35px;
+    color: #fff;
+    border: none;
+    background-color: #335;
+    border-radius: 0px 10px 10px 0px;
+}
